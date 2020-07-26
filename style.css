@@ -105,7 +105,7 @@ body{
 	left:360px;
 }
 #Home h1{
-	font-size:40px;
+	font-size:38px;
 	font-weight:bold;
 	font-style: italic;
 	background-color:ivory;
@@ -396,9 +396,9 @@ body{
 	font-size:16px;
 	position:absolute;
 	bottom:0px;
-	left:85px;
+	left:65px;
 	color:white;
 	border: 1px solid black;
 	background-color: black;
-	padding:7px 470px 7px 470px;
-}
+	padding:7px 450px 7px 470px;
+}	
