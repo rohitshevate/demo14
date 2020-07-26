@@ -192,8 +192,8 @@ body{
 	font-size:33px;
 	color:rgb(255, 51, 0);
 	position:absolute;
-	top:0px;
-	left:505px; 
+	top:-10px;
+	left:500px; 
 }
 #name{
 	margin-top:50px;
@@ -278,9 +278,9 @@ body{
 #form1{
 	background-color:rgb(251, 255, 196);
 	border:1px solid black;
-	padding:0px 20px 10px 20px;
+	padding:0px 20px 5px 20px;
 	position:absolute;
-	top:70px;
+	top:55px;
 	left:460px;
   	
 }
