@@ -105,12 +105,12 @@ body{
 	left:360px;
 }
 #Home h1{
-	font-size:38px;
+	font-size:35px;
 	font-weight:bold;
 	font-style: italic;
 	background-color:ivory;
 	color:rgb(255, 51, 0);
-	padding:2px 10px 3px 10px;
+	padding:2px 3px 2px 3px;
 	position:absolute;
 	top:15px;
 	left:45px;
